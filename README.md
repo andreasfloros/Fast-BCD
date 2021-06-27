@@ -18,7 +18,7 @@ R3 will contain the signed overflow (0 or 1).
 
 R4 will contain the unsigned overflow (0 or 1).
 
-__BCD8ADDMEM__: Same operation as above except R0, R1 and R3 are pointers to the values x, y and z respectively.
+__BCD8ADDMEM__: Same operation as above except R0, R1 and R2 are pointers to the values x, y and z respectively.
 
 ## Optimised multiplication
 
